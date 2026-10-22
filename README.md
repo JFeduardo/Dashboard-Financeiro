@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-Abra `http://localhost:3000` no navegador.
+ `http://localhost:3000` no navegador.
 
 ### Scripts
 
